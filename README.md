@@ -1,2 +1,2 @@
 # Greenland Ice Melt Rate Dynamics
-The repository contains the supplementary information and notes to further materials for the arXiv publication "Do Inner Greenland's Melt Rate Dynamics Approach Coastal Ones?"
+The repository contains the supplementary information and notes to further materials for the arXiv publication "Do Inner Greenland's Melt Rate Dynamics Approach Coastal Ones?" The BLE analyses can be reproduced using the open-source Python package "antiCPy". The melt rate time series from the Greenland Ice Sheet are freely available at https://www.nature.com/articles/s41586-018-0752-4#Sec14.
